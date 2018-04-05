@@ -1,0 +1,95 @@
+body{
+	font-size: 1.0em;
+    width: 100%;
+    font-family: 'Lora', serif;
+    src: url(../font/Lora-Regular.ttf)
+	}
+
+header{
+	background-color: solid grey;
+    width: 92%;
+	height: 200px;
+    border: 5px solid gray;
+    padding: 25px;
+    margin: 10px;
+    margin-top: 10px;
+    }
+
+nav{
+	font-size: 1em;
+	text-decoration:none;
+    text-align:right;
+    margin-top:5%;
+    width: 100%;
+	height: 100%;
+    letter-spacing: 3%;
+    margin-bottom: -10%;
+    padding: 0 0px;
+    }
+
+
+
+a{
+	text-decoration-line: none;
+	color:black;
+    margin-left: -3%;
+    margin-top: -4%;
+    }
+
+aside{
+	float: left;
+	width: 200;
+	height: 6%;
+	margin: 5%;
+	margin-top: 5%;
+	list-style: none;
+	background-color: white;
+	
+    }
+section{
+	float: right;
+	width: 80%;
+    margin-top: 5%;
+    margin-right:0%;
+    }
+
+h1{
+	color: #0a293b;
+	font-size: 5.6em;
+	text-align: left;
+   
+    }
+
+h2{
+    margin: 2%;
+    font-size: 2.5em;
+    color: #0a293b;
+  }
+
+   
+h3{
+    margin-top: 0%;
+    font-size: 1.8em;
+    margin-right: 10%
+    }
+
+#abajo{
+     margin-top: -8%;
+    }
+
+p {
+    margin:0%;
+    margin-bottom: 10%;
+    margin-right: 5%;
+    margin-left: 15%;
+    text-align: left;
+
+    }
+
+footer{
+    margin-top: -8%;
+    float: left;
+    position: relative;
+    }
+
+
